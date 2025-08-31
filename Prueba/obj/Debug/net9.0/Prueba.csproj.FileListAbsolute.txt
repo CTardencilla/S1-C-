@@ -1,0 +1,14 @@
+C:\Users\caleb\OneDrive\Escritorio\C#\Prueba\bin\Debug\net9.0\Prueba.exe
+C:\Users\caleb\OneDrive\Escritorio\C#\Prueba\bin\Debug\net9.0\Prueba.deps.json
+C:\Users\caleb\OneDrive\Escritorio\C#\Prueba\bin\Debug\net9.0\Prueba.runtimeconfig.json
+C:\Users\caleb\OneDrive\Escritorio\C#\Prueba\bin\Debug\net9.0\Prueba.dll
+C:\Users\caleb\OneDrive\Escritorio\C#\Prueba\bin\Debug\net9.0\Prueba.pdb
+C:\Users\caleb\OneDrive\Escritorio\C#\Prueba\obj\Debug\net9.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\OneDrive\Escritorio\C#\Prueba\obj\Debug\net9.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\caleb\OneDrive\Escritorio\C#\Prueba\obj\Debug\net9.0\Prueba.AssemblyInfo.cs
+C:\Users\caleb\OneDrive\Escritorio\C#\Prueba\obj\Debug\net9.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\caleb\OneDrive\Escritorio\C#\Prueba\obj\Debug\net9.0\Prueba.dll
+C:\Users\caleb\OneDrive\Escritorio\C#\Prueba\obj\Debug\net9.0\refint\Prueba.dll
+C:\Users\caleb\OneDrive\Escritorio\C#\Prueba\obj\Debug\net9.0\Prueba.pdb
+C:\Users\caleb\OneDrive\Escritorio\C#\Prueba\obj\Debug\net9.0\Prueba.genruntimeconfig.cache
+C:\Users\caleb\OneDrive\Escritorio\C#\Prueba\obj\Debug\net9.0\ref\Prueba.dll
